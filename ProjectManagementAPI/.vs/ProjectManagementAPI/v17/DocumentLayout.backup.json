@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\models\\projecttaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:models\\projecttaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\models\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:models\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\data\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:data\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\data\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:data\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\authorizecheckoperationfilter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:authorizecheckoperationfilter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\data\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:data\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\data\\mysqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:data\\mysqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|d:\\smartkeed assignement\\project management\\project management api\\projectmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E017682D-EBE0-47EB-BCEB-161DA13F4E26}|ProjectManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIA8wEsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:59:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Data\\TaskRepository.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\TaskRepository.cs",
+              "RelativeToolTip": "Data\\TaskRepository.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAArwIQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:36:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:03:09.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectModel.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\ProjectModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectModel.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\ProjectModel.cs",
+              "RelativeToolTip": "Models\\ProjectModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:12:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectTaskModel.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\ProjectTaskModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectTaskModel.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\ProjectTaskModel.cs",
+              "RelativeToolTip": "Models\\ProjectTaskModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:39:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:59:21.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:59:37.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsRepository.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\ProjectsRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ProjectsRepository.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\ProjectsRepository.cs",
+              "RelativeToolTip": "Data\\ProjectsRepository.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAgwLUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:01:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UsersRepository.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\UsersRepository.cs",
+              "RelativeToolTip": "Data\\UsersRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:25:35.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:59:00.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:04:30.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Helpers\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtTokenHelper.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Helpers\\JwtTokenHelper.cs",
+              "RelativeToolTip": "Helpers\\JwtTokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:47:49.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizeCheckOperationFilter .cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\AuthorizeCheckOperationFilter .cs",
+              "RelativeDocumentMoniker": "AuthorizeCheckOperationFilter .cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\AuthorizeCheckOperationFilter .cs",
+              "RelativeToolTip": "AuthorizeCheckOperationFilter .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:57:41.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Data\\AuthenticationRepository.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\AuthenticationRepository.cs",
+              "RelativeToolTip": "Data\\AuthenticationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:01:53.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Helpers\\PasswordHasher.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:32:50.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:52:12.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:53:04.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T06:02:47.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MySqlConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\MySqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Data\\MySqlConnectionFactory.cs",
+              "ToolTip": "D:\\Smartkeed Assignement\\Project Management\\Project Management API\\ProjectManagementAPI\\Data\\MySqlConnectionFactory.cs",
+              "RelativeToolTip": "Data\\MySqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:11:25.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
